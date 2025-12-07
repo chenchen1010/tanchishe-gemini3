@@ -1,0 +1,5 @@
+{
+  "name": "Neon Snake AI",
+  "description": "A modern, neon-styled Snake game featuring AI-powered commentary on your gameplay performance using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
